@@ -2,7 +2,7 @@
 # fortune.py -- chooses a random fortune, as the fortune(8) program in
 #               the BSD-games package does
 #
-# Copyright (c) 2010, Andrew M. Kuchling
+# Copyright (c) 2010,
 # 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
