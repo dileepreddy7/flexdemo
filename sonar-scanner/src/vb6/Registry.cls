@@ -426,3 +426,4 @@ Private Function ErrorText(ByVal lRC As Long) As String
     ErrorText = s
 End Function
 
+//
