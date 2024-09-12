@@ -425,5 +425,3 @@ Private Function ErrorText(ByVal lRC As Long) As String
     End Select
     ErrorText = s
 End Function
-
-//
