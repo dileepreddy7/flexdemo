@@ -63,7 +63,7 @@ public class SonarQubeIssuesExample {
             }
         }
 
-        // Issue: "==" and "!=" should not be used when "equals" is overridden///
+        // Issue: "==" and "!=" should not be used when "equals" is ov
         public void compareStrings(String str1, String str2) {
             if (str1 == str2) { // Should use equals() instead
                 System.out.println("Strings are the same reference.");
